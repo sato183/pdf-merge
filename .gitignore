@@ -2,7 +2,9 @@
 node_modules/
 
 # Input files
-input_pdfs/
+# Input files
+input_pdfs/*
+!input_pdfs/.gitkeep
 
 # Generated files
 merged_document.pdf
