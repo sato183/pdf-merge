@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+
+# Input files
+input_pdfs/
+
+# Generated files
+merged_document.pdf
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+Thumbs.db
